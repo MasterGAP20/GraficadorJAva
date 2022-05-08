@@ -1,5 +1,5 @@
 public class run {
     public static void main(String[] args) {
-        System.out.println("Hola Mundo!");
+        MainFrame frame = new MainFrame();
     }
 }
